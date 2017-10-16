@@ -1,5 +1,5 @@
 var playlist = {sade:"smooth operator"};
 
-function updatePlaylist() {
-  
+function updatePlaylist(playlist, artist, song) {
+
 }
