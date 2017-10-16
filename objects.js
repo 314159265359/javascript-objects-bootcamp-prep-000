@@ -1,1 +1,1 @@
-var playlist = {};
+var playlist = {sade:"smooth operator"};
